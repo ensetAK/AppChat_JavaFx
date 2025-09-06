@@ -1,3 +1,4 @@
+
 <h1>Application chat avec JavaFx, les sockets, et les threads</h1>
 Une application desktop développée en JavaFX pour la gestion de produits avec une interface utilisateur élégante.
 
@@ -29,7 +30,10 @@ src/
 - isualiser les logs dans la console (connexions, déconnexions, messages)
 - Affichage d’un message lorsque quelqu’un rejoint ou quitte
 
----
+<h1>Capture d’écran</h1>
+
+![JAVAFXXX.png](IMAGES/JAVAFXXX.png)
+
 
 <h1>Technologies Utilisées</h1>
 <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; max-width: 600px;">
@@ -58,3 +62,4 @@ src/
     </tr>
   </tbody>
 </table>
+
